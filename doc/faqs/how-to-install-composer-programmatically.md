@@ -1,4 +1,5 @@
-# How do I install Composer programmatically?
+# How do I insta![guia](https://github.com/composer/composer/assets/171078045/eb58dd77-dcde-48fd-99da-53888c6388c1)
+ll Composer programmatically?
 
 As noted on the download page, the installer script contains a
 checksum which changes when the installer code changes and as such
